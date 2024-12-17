@@ -1,3 +1,7 @@
-This is a main branch.
-This line is in main branch
-new line added through github
+
+This is a master branch.
+This line added to master branch.
+
+This line line added after merging main branch into master branch.
+this line added from github
+
